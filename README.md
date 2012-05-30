@@ -1,4 +1,5 @@
 testrepo
 ========
 
-test description
+test description. 
+and some more text
